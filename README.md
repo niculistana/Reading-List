@@ -38,3 +38,4 @@ Literature I plan to read. No order whatsoever.
 |Hot Seat: The Startup CEO Guidebook|
 |Sacred Hoops: Spiritual Lessons of a Hardwood Warrior|
 |The Art Of War|
+|What Customers Want: Using Outcome-Driven Innovation to Create Breakthrough Products and Services|
