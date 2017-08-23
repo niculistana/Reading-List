@@ -41,3 +41,4 @@ Literature I plan to read. No order whatsoever.
 |What Customers Want: Using Outcome-Driven Innovation to Create Breakthrough Products and Services|
 |Inventor's Delimma|
 |Shoe Dog|
+|You Are a Message: Meditations for the Creative Entrepreneur|
