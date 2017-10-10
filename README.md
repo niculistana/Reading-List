@@ -42,3 +42,4 @@ Literature I plan to read. No order whatsoever.
 |Inventor's Delimma|
 |Shoe Dog|
 |You Are a Message: Meditations for the Creative Entrepreneur|
+|The Book of Basketball: The NBA According to The Sports Guy|
