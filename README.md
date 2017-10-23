@@ -43,3 +43,4 @@ Literature I plan to read. No order whatsoever.
 |Shoe Dog|
 |You Are a Message: Meditations for the Creative Entrepreneur|
 |The Book of Basketball: The NBA According to The Sports Guy|
+|Reset: My Fight for Inclusion and Lasting Change|
