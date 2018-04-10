@@ -45,3 +45,4 @@ Literature I plan to read. No order whatsoever.
 |The Book of Basketball: The NBA According to The Sports Guy|
 |Reset: My Fight for Inclusion and Lasting Change|
 |The 5 Elements of Effective Thinking|
+|Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems|
