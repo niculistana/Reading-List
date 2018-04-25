@@ -46,3 +46,4 @@ Literature I plan to read. No order whatsoever.
 |Reset: My Fight for Inclusion and Lasting Change|
 |The 5 Elements of Effective Thinking|
 |Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems|
+|Insight: Why We're Not as Self-Aware as We Think, and How Seeing Ourselves Clearly Helps Us Succeed at Work and in Life|
