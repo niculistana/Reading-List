@@ -1,5 +1,5 @@
 # Reading-List
-Literature I plan to read. No order whatsoever.
+Literature I plan to read or currently reading. No order whatsoever.
 
 |Title |
 |------|
