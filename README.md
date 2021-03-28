@@ -3,6 +3,8 @@ Literature I plan to read or currently reading. No order whatsoever.
 
 |Title |
 |------|
+|Managing Humans|
+|Apprentiship Patterns|
 |Grokking Bitcoin|
 |The Art of Being Indespensable at Work|
 |Rails Antipatterns|
