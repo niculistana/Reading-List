@@ -3,6 +3,10 @@ Literature I plan to read or currently reading. No order whatsoever.
 
 |Title |
 |------|
+|Grokking Bitcoin|
+|The Art of Being Indespensable at Work|
+|Rails Antipatterns|
+|Inspired: How to Create Tech Products Customers Love (Silicon Valley Product Group)|
 |Radical Homemakers: Reclaiming Domesticity from a Consumer Culture|
 |The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World|
 |Thinking, Fast and Slow|
